@@ -1,4 +1,4 @@
 # stalwart-mail
-chmod +x install-stalwart.sh
+``chmod +x install-stalwart.sh``
 
-./install-stalwart.sh
+``./install-stalwart.sh``
